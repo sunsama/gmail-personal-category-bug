@@ -1,0 +1,16 @@
+{
+  "name": "gmail-bug-report",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gmail-query.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^104.0.0",
+    "jest": "^28.1.1",
+    "lodash": "^4.17.21"
+  }
+}
